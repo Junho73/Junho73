@@ -5,7 +5,6 @@
 ### 화면부터 서버, 테스트 자동화까지 직접 붙이는 풀스택 개발자
 
 **React · TypeScript로 만들고, Spring Boot · Nest.js로 서버까지 붙입니다.**
-**가장 자신 있는 도구는 Playwright입니다.**
 
 <br>
 
