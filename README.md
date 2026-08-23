@@ -7,6 +7,7 @@
 
 <a href="mailto:jhjang7332@gmail.com"><img src="https://img.shields.io/badge/jhjang7332@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://github.com/Junho73"><img src="https://img.shields.io/badge/Junho73-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://jhjang01.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-ED702D?style=flat-square&logo=tistory&logoColor=white"/></a>
 
 </div>
 
